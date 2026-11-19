@@ -1,8 +1,11 @@
 Global Solution 2026/2 - Boletim Plus
 Disciplina: Compliance Quality Assurance and Tests
+Truma: 2TDSPW
+
+Repositório: https://github.com/Gustavo-B-Araujo/gs-26-2-compliance-quality-assurance-and-tests
 
 Projeto no Azure Boards: https://dev.azure.com/RM563358/BoletimPlus
 
-Nome completo               RM          Turma
-Gustavo Barrios de Araújo   RM563358    2TDSPW
-Phietro Solon Oliveira      RM563842    2TDSPW
+Nome completo               RM      
+Gustavo Barrios de Araújo   RM563358
+Phietro Solon Oliveira      RM563842
